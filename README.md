@@ -1,1 +1,1 @@
-# ninja_gold
+# Ninja-gold
